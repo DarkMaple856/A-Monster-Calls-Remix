@@ -1,2 +1,1 @@
-# computing-work
-_**Hello World!**_ I am Onn Qi Huan, a student from [Dunman High School].
+Hello World! I am a person living on Earth. This is my homepage. Feel free to look around. Bye!
